@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="couchbase-lite-java-listener-1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-listener/1.0.4/b6cf695e821e188e0dd50ed3d52cce2ec2a4d3a6/couchbase-lite-java-listener-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-listener/1.0.4/6fcf82fa23bc14aa14017d4c5e09726fe5aa89dd/couchbase-lite-java-listener-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

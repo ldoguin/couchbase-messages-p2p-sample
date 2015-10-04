@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ldoguin/.gradle/caches/modules-2/files-2.1/javax.jmdns/jmdns/3.4.1/7ba2dcf7effb5ca9b00736b2a066fff3dd01d432/jmdns-3.4.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7ba2dcf7effb5ca9b00736b2a066fff3dd01d432">
+        <dex dex="/Users/ldoguin/git/couchbase-messages-p2p-sample/couchbase-lite-message-android-app/app/build/intermediates/pre-dexed/debug/jmdns-3.4.1-e4b1530b5fa8af0c2dfe6f32c665129a4ac59bd6.jar" />
+    </item>
+    <item
+        jar="/Users/ldoguin/.gradle/caches/modules-2/files-2.1/com.github.oxo42/stateless4j/2.4.0/128aca4ace585f0b42faa739d0b968a154debb7a/stateless4j-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="128aca4ace585f0b42faa739d0b968a154debb7a">
+        <dex dex="/Users/ldoguin/git/couchbase-messages-p2p-sample/couchbase-lite-message-android-app/app/build/intermediates/pre-dexed/debug/stateless4j-2.4.0-c387ef8ad38df77b6fe61f1131a0e204f69f8cb2.jar" />
+    </item>
+    <item
+        jar="/Users/ldoguin/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.2/95400a7922ce75383866eb72f6ef4a7897923945/jackson-mapper-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="95400a7922ce75383866eb72f6ef4a7897923945">
+        <dex dex="/Users/ldoguin/git/couchbase-messages-p2p-sample/couchbase-lite-message-android-app/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.9.2-491173cd0183faa7bf8c5548e8983b5ca1940fff.jar" />
+    </item>
+    <item
+        jar="/Users/ldoguin/.gradle/caches/modules-2/files-2.1/com.couchbase.cblite/webserver/2-3/3139c2f41e5779ff17733648eb674a11dd5db0ac/webserver-2-3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3139c2f41e5779ff17733648eb674a11dd5db0ac">
+        <dex dex="/Users/ldoguin/git/couchbase-messages-p2p-sample/couchbase-lite-message-android-app/app/build/intermediates/pre-dexed/debug/webserver-2-3-9428d525252102961b1c6d6a9f08c8b3dacac5b4.jar" />
+    </item>
+    <item
+        jar="/Users/ldoguin/git/couchbase-messages-p2p-sample/couchbase-lite-message-android-app/app/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/1.0.4/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="96f0e0465e70b50e35d39c5e2edc7264b65816f2">
+        <dex dex="/Users/ldoguin/git/couchbase-messages-p2p-sample/couchbase-lite-message-android-app/app/build/intermediates/pre-dexed/debug/classes-f1293f3cd1a074e0c618728b91f0e04928e135aa.jar" />
+    </item>
+    <item
+        jar="/Users/ldoguin/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.2/8493982bba1727106d767034bd0d8e77bc1931a9/jackson-core-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8493982bba1727106d767034bd0d8e77bc1931a9">
+        <dex dex="/Users/ldoguin/git/couchbase-messages-p2p-sample/couchbase-lite-message-android-app/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.2-02fe659cc130212c61d4f90a03dd479c8faed423.jar" />
+    </item>
+    <item
+        jar="/Users/ldoguin/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-core/1.0.4/ec583c19851d2bbe71873e3581f250ce07b55edc/couchbase-lite-java-core-1.0.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ec583c19851d2bbe71873e3581f250ce07b55edc">
+        <dex dex="/Users/ldoguin/git/couchbase-messages-p2p-sample/couchbase-lite-message-android-app/app/build/intermediates/pre-dexed/debug/couchbase-lite-java-core-1.0.4-5dcf0d1890f3cd1901b39c0d96814b30d5a82c25.jar" />
+    </item>
+    <item
+        jar="/Users/ldoguin/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-listener/1.0.4/b6cf695e821e188e0dd50ed3d52cce2ec2a4d3a6/couchbase-lite-java-listener-1.0.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b6cf695e821e188e0dd50ed3d52cce2ec2a4d3a6">
+        <dex dex="/Users/ldoguin/git/couchbase-messages-p2p-sample/couchbase-lite-message-android-app/app/build/intermediates/pre-dexed/debug/couchbase-lite-java-listener-1.0.4-9f6d1929dfaabb54350ecb134822fc54f23575b9.jar" />
+    </item>
+    <item
+        jar="/Users/ldoguin/.gradle/caches/modules-2/files-2.1/com.couchbase.cblite/servlet/2-3/ee3fdda3a13d36e33604881346b479b31bbcb6b7/servlet-2-3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ee3fdda3a13d36e33604881346b479b31bbcb6b7">
+        <dex dex="/Users/ldoguin/git/couchbase-messages-p2p-sample/couchbase-lite-message-android-app/app/build/intermediates/pre-dexed/debug/servlet-2-3-2b230d2249c97dbfd7cad42b8f1d526190605260.jar" />
+    </item>
+
+</items>
