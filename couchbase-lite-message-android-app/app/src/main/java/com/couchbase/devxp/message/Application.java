@@ -1,5 +1,8 @@
 package com.couchbase.devxp.message;
 
+import android.content.Context;
+import android.support.multidex.MultiDex;
+
 import com.couchbase.lite.CouchbaseLiteException;
 import com.couchbase.lite.Database;
 import com.couchbase.lite.Manager;
@@ -54,4 +57,9 @@ public class Application extends android.app.Application {
         super.onCreate();
     }
 
+        @Override
+        protected void attachBaseContext(Context base) {
+                super.attachBaseContext(base);
+                MultiDex.install(this);
+            }
 }
